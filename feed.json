@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Proverb",
+    "description": "",
+    "home_page_url": "https://proverbs.remi.blue",
+    "feed_url": "https://proverbs.remi.blue/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Remi"
+    },
+    "items": [
+    ]
+}
